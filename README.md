@@ -38,4 +38,3 @@ I run. Training for my first marathon this year. I snowboard in the winter, trav
 
 [![Email](https://img.shields.io/badge/Email-ayubfaarah14@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayubfaarah14@gmail.com)
 [![Website](https://img.shields.io/badge/Website-ayubfaarah.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personalsite-rho-roan.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayub%20Faarah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayub-faarah)
